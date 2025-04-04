@@ -18,7 +18,7 @@
 </div>
 
 ## ✨ Key Features
-
+<div align="center">
 <table>
   <tr>
     <td width="50%">
@@ -45,6 +45,8 @@
     </td>
   </tr>
 </table>
+</div>
+
 
 ## 💻 Technologies Used
 
@@ -111,7 +113,7 @@ This template is designed with a mobile-first approach, ensuring your portfolio 
 
 <!-- Cool Footer -->
 <div align="center">
-  <img src="https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/05/30000725/lsa-hero-2-1600x900.jpeg" width="50%">
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="500">
   <p>⭐ Star this repository if you find it useful! ⭐</p>
   <p>© 2025 Template crafted with 💖 by Saim Shafique</p>
 </div>
