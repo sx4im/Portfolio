@@ -111,7 +111,7 @@ This template is designed with a mobile-first approach, ensuring your portfolio 
 
 <!-- Cool Footer -->
 <div align="center">
-  <img src="https://hips.hearstapps.com/hmg-prod/images/dahlia-1508785047.jpg?crop=1.00xw:0.669xh;0,0.0136xh&resize=980:*" width="100%">
+  <img src="https://images.prestigeonline.com/wp-content/uploads/sites/6/2022/05/30000725/lsa-hero-2-1600x900.jpeg" width="50%">
   <p>⭐ Star this repository if you find it useful! ⭐</p>
   <p>© 2025 Template crafted with 💖 by Saim Shafique</p>
 </div>
