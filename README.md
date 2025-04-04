@@ -2,7 +2,6 @@
   
 # 🌟 Frontend Developer Portfolio 🌟
 
-<img src="https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg" alt="Portfolio Banner" width="100%">
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&color=61dafb)](https://sx4im.github.io/Portfolio)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)](https://github.com/sx4im/Portfolio)
@@ -112,7 +111,7 @@ This template is designed with a mobile-first approach, ensuring your portfolio 
 
 <!-- Cool Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sx4im/Portfolio/main/assets/images/footer-wave.svg" width="100%">
+  <img src="https://hips.hearstapps.com/hmg-prod/images/dahlia-1508785047.jpg?crop=1.00xw:0.669xh;0,0.0136xh&resize=980:*" width="100%">
   <p>⭐ Star this repository if you find it useful! ⭐</p>
   <p>© 2025 Template crafted with 💖 by Saim Shafique</p>
 </div>
