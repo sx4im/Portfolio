@@ -2,7 +2,7 @@
   
 # 🌟 Frontend Developer Portfolio 🌟
 
-<img src="https://raw.githubusercontent.com/sx4im/Portfolio/main/assets/images/portfolio-banner.png" alt="Portfolio Banner" width="100%">
+<img src="https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg" alt="Portfolio Banner" width="100%">
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&color=61dafb)](https://sx4im.github.io/Portfolio)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)](https://github.com/sx4im/Portfolio)
